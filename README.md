@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Run Notebook
-Open `HR_Data_Analysis.ipynb` in **Google Colab** or Jupyter Notebook.
+Open `HR_Data_Analysis_final.ipynb` in **Google Colab** or Jupyter Notebook.
 
 ---
 
