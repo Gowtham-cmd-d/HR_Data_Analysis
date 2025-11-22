@@ -16,11 +16,18 @@ This project explores HR hiring patterns, joining behavior, and predictive model
 ## Included Visuals
 The following important charts are included in `outputs/figures/`:
 
-- download.png
-- download (1).png
-- download (3).png
-- histo.png
-- plot.png
+- <img width="528" height="470" alt="download (1)" src="https://github.com/user-attachments/assets/69cd9fd4-3960-4d61-a1e3-03a0d6ac4538" />
+
+- <img width="958" height="1462" alt="Cat" src="https://github.com/user-attachments/assets/db7330b8-024e-47e6-8a3a-10c583deebd2" />
+
+- <img width="958" height="1465" alt="plot" src="https://github.com/user-attachments/assets/159edd3c-ff0e-494e-b795-b640dd8b0871" />
+
+- <img width="1239" height="596" alt="histo" src="https://github.com/user-attachments/assets/fd38896a-5aa3-4aff-8846-66222aad2a6c" />
+
+- <img width="895" height="448" alt="before fit" src="https://github.com/user-attachments/assets/3280a908-2412-4957-bcc0-0a7425a60e6a" />
+
+- <img width="844" height="561" alt="download (4)" src="https://github.com/user-attachments/assets/e063f7b6-416f-40b9-ac8e-6c8e03cbad07" />
+- <img width="855" height="470" alt="download (3)" src="https://github.com/user-attachments/assets/904ec1cb-4c64-47a0-aceb-7ceab84cf571" />
 
 ---
 
@@ -52,5 +59,6 @@ Open `HR_Data_Analysis.ipynb` in **Google Colab** or Jupyter Notebook.
 ---
 
 ## Contact
-Gowtham  
+Gowtham
+gowthamfencing77@gmail.com
 Hosur, Tamil Nadu  
